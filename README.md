@@ -8,7 +8,8 @@ Think of it as a spell-checker, but for cloud security and cost — powered by a
 
 ## 📸 Demo
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Dashboard Screenshot 1](dashboard-screenshot-1.png)
+![Dashboard Screenshot 2](dashboard-screenshot-2.png)
 
 ---
 
